@@ -1,5 +1,4 @@
 pytelegrambotapi
 requests
-json
 gtts
 praw
