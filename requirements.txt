@@ -1,4 +1,3 @@
-pytelegrambotapi
+telegram.ext
 requests
-gtts
-praw
+json
