@@ -81,7 +81,6 @@ prometheus-client==0.9.0
 prompt-toolkit==3.0.14
 psutil==5.7.2
 psycopg2==2.8.6
-PyAudio @ file:///C:/Users/harekrushna/Anaconda3/PyAudio-0.2.11-cp38-cp38-win32.whl
 PyAutoGUI==0.9.50
 pycparser==2.20
 pydub==0.24.1
